@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TwoBlockWonder.aternos.me:19687",
+    "ip": "TwoBlockWonder.aternos.me",
     "port": 19687,
     "version": "",
     "try-creative": false
